@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\bin\Debug\net9.0\Functionz.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\bin\Debug\net9.0\Functionz.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\bin\Debug\net9.0\Functionz.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\bin\Debug\net9.0\Functionz.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\bin\Debug\net9.0\Functionz.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\refint\Functionz.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\Functionz.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Functionz\Functionz\obj\Debug\net9.0\ref\Functionz.dll
